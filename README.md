@@ -1,4 +1,5 @@
 # git for mac
+> what we need to do is just install a tool named **Command Line Tools**
 ```
 //open the terminal,and type
 xcode-select --install enter
