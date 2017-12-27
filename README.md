@@ -13,6 +13,13 @@ Apple LLVM version 6.1.0 (clang-602.0.49) (based on LLVM 3.6.0svn)
 Target: x86_64-apple-darwin14.3.0
 Thread model: posix
 ```
+# ssh key
+```
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
+```
+# config
+add id_rsa.pub into vps
 首先配置自己的身份，这样在提交代码的时候就能知道是谁提交的
 ```
 输入git config --global user.name "名字"
