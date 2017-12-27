@@ -19,6 +19,17 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 ssh -T git@github.com
 ssh -T git@github.com
 ```
+# need pwd to access
+```
+git add .
+git status
+git commit -m ''
+git push
+enter your uname
+enter your pwd
+...
+Ok
+```
 # config
 add id_rsa.pub into vps
 首先配置自己的身份，这样在提交代码的时候就能知道是谁提交的
