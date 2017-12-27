@@ -16,7 +16,8 @@ Thread model: posix
 # ssh key
 ```
 $ ssh-keygen -t rsa -C "youremail@example.com"
-
+ssh -T git@github.com
+ssh -T git@github.com
 ```
 # config
 add id_rsa.pub into vps
