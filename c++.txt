@@ -1,0 +1,40 @@
+specify 指定
+Invoce 发票
+quotation 报价
+extension伸展，扩大;延长，延期;[医]牵引;电话分机
+.cpp default
+C++ basic syntax 基础语法[ˈsɪnˌtæks]
+wagging 咬尾巴 barking叫，eating
+Variables 变量
+instance 实例
+execution 美 [ˌɛksɪˈkjuʃən]依法处决;实行，执行;演奏
+terminate  vt&vi结束;使终结;解雇;到达终点站adj结束的 terminator结束
+Semicolons and blocks in c++ 分号和块
+comma美 [ˈkɑ:mə] 逗号 period 美 [ˈpɪriəd] 
+identifier识别器
+Underscore 下划线
+check digit UPC（最后一位）校验码
+digits数字
+reserved words预订的;矜持的;储藏着的
+aside／apart from Aaron, which other designer is on duty? aside from。。。除了。。
+recursive 递归的，循环的 美 [rɪˈkɜ:rsɪv]
+deploy 美 [dɪˈplɔɪ] 部署；vi/vt尤指军事行动）使展开;施展;有效地利用
+utilities 美 [ju:'tɪlɪtɪz] 公用事业;实用;[经济学]效用（ utility的名词复数 ）;神庙逃亡游戏中的一次性道具
+dw 即message 
+lol “LOL”是首字母缩略字，指laughing out loud或laugh out loud，意即大声地笑
+GG 竞技游戏(如魔兽争霸、星际争霸、反恐精英)中，输的那一方在退出前先打出GG(good game／luck)，意思是对方打了场漂亮的比赛，以示礼貌；但是在LOL中就是嘲讽失败者
+anatomy 美 [əˈnætəmi] n解剖，分解，分析;（详细的）剖析;（生物体的）解剖结构;骨骼
+Let’s walk through the anatomy of an Ionic app. Inside of the folder that was created, we have a typical Cordova project structure where we can install native plugins, and create platform-specific project files.
+
+WRITE ONCE. DEPLOY ANYWHERE。
+alias  美 [ˈeliəs, ˈeljəs] 别名
+dismissed v 美 [dɪs'mɪst]驳回;解雇( dismiss的过去式和过去分词 );（使击球员或球队）退场;使退去
+album美 [ˈælbəm] n相册;唱片;集邮簿;签名册
+ portion 美 [ˈpɔ:rʃn] n一部分
+customized adj客户指定的，定制的（产品），vi&vt订做，改制（以满足顾主的需要）v定制，定做( customize的过去式和过去分词 )
+http://blog.csdn.net/marksinoberg/article/details/51648929 MKD
+
+你够聪明的话我认为一年足够了，二个月JavaSE，半个月html+css+div，一个月的数据库，servlet+jsp一个月，然后SSH框架两个月。然后通起来串一遍，把知识结合起来，再做几个项目练练手，就差不多了。不过你什么也不会我感觉………………… 一年学会的话祝贺你，你真的是天才了！
+
+
+
