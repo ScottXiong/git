@@ -16,7 +16,6 @@ Thread model: posix
 首先配置自己的身份，这样在提交代码的时候就能知道是谁提交的
 ```
 输入git config --global user.name "名字"
-
 git config --global user.email "邮箱地址"
 输入git init就可以创建啦~
 然后使用ls -al查询代码仓库，如果想删除这个仓库，直接从目录下删除这个文件夹就可以了
