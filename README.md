@@ -24,7 +24,7 @@ ssh -T git@github.com
 git add .
 git status
 git commit -m ''
-git push
+git push //if it fails to push, we need to use git pull adn add some message for it
 enter your uname
 enter your pwd
 ...
