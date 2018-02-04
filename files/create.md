@@ -4,8 +4,8 @@
 2， 配置文件:~/.gitconfig
 ```
 [user]
-	name = scottxiong
-	email = github.scott.bear@gmail.com
+	name=nickname
+	email=xx@gmail.com
 
 [alias]
   co=checkout
@@ -17,3 +17,4 @@
   ca=commit -am
   b=branch
 ```
+3,`ssh-keygen -t rsa -C 'xx@gmail.com'`
