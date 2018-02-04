@@ -1,6 +1,6 @@
 ### create environment
 
-1， download the git from the official site
+1， download the git from the official site<br>
 2， 配置文件:~/.gitconfig
 ```
 [user]
